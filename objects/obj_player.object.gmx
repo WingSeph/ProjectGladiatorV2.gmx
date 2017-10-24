@@ -38,36 +38,6 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="5" enumb="32">
-      <action>
-        <libid>1</libid>
-        <id>541</id>
-        <kind>0</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_sprite_set</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>5</kind>
-            <sprite>spr_attack_light</sprite>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0.2</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
     <event eventtype="7" enumb="7">
       <action>
         <libid>1</libid>
@@ -254,6 +224,36 @@
         </arguments>
       </action>
     </event>
+    <event eventtype="9" enumb="70">
+      <action>
+        <libid>1</libid>
+        <id>541</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_set</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>5</kind>
+            <sprite>spr_attack_heavy</sprite>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0.3</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
     <event eventtype="9" enumb="68">
       <action>
         <libid>1</libid>
@@ -422,6 +422,36 @@
           <argument>
             <kind>0</kind>
             <string>0.5</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="9" enumb="32">
+      <action>
+        <libid>1</libid>
+        <id>541</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_set</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>5</kind>
+            <sprite>spr_attack_light</sprite>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0.3</string>
           </argument>
         </arguments>
       </action>
