@@ -11,6 +11,7 @@
     <sprite>sprites\spr_attack_light</sprite>
     <sprite>sprites\spr_attack_heavy</sprite>
     <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\spr_awall</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_arena</background>
@@ -20,6 +21,7 @@
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_wall</object>
+    <object>objects\obj_awall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_arena</room>
