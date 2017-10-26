@@ -16,6 +16,7 @@
     <sprite>sprites\spr_boss_walk</sprite>
     <sprite>sprites\spr_player_death</sprite>
     <sprite>sprites\spr_player_sprint</sprite>
+    <sprite>sprites\spr_weapon_knife_light</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_arena</background>
@@ -23,16 +24,18 @@
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_player</object>
-    <object>objects\obj_wall</object>
     <object>objects\obj_awall</object>
     <object>objects\obj_boss</object>
+    <object>objects\obj_player</object>
     <object>objects\obj_player_death</object>
-    <object>objects\obj_player_light</object>
     <object>objects\obj_player_heavy</object>
+    <object>objects\obj_player_light</object>
     <object>objects\obj_player_sprint_right</object>
-    <object>objects\parent_enemy</object>
     <object>objects\obj_prototype_spawner</object>
+    <object>objects\obj_wall</object>
+    <object>objects\obj_weapon_knife_light</object>
+    <object>objects\parent_enemy</object>
+    <object>objects\parent_weapon_player</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_arena</room>
