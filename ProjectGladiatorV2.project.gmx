@@ -6,17 +6,44 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_player_idle</sprite>
-    <sprite>sprites\spr_player_walk</sprite>
-    <sprite>sprites\spr_attack_light</sprite>
     <sprite>sprites\spr_attack_heavy</sprite>
-    <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\spr_attack_light</sprite>
     <sprite>sprites\spr_awall</sprite>
     <sprite>sprites\spr_boss_idle</sprite>
     <sprite>sprites\spr_boss_walk</sprite>
     <sprite>sprites\spr_player_death</sprite>
+    <sprite>sprites\spr_player_idle</sprite>
     <sprite>sprites\spr_player_sprint</sprite>
+    <sprite>sprites\spr_player_walk</sprite>
+    <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\spr_weapon_axe</sprite>
+    <sprite>sprites\spr_weapon_axe_dash</sprite>
+    <sprite>sprites\spr_weapon_axe_heavy</sprite>
+    <sprite>sprites\spr_weapon_axe_idle</sprite>
+    <sprite>sprites\spr_weapon_axe_light</sprite>
+    <sprite>sprites\spr_weapon_axe_sprint</sprite>
+    <sprite>sprites\spr_weapon_axe_walk</sprite>
+    <sprite>sprites\spr_weapon_club</sprite>
+    <sprite>sprites\spr_weapon_club_dash</sprite>
+    <sprite>sprites\spr_weapon_club_heavy</sprite>
+    <sprite>sprites\spr_weapon_club_idle</sprite>
+    <sprite>sprites\spr_weapon_club_light</sprite>
+    <sprite>sprites\spr_weapon_club_sprint</sprite>
+    <sprite>sprites\spr_weapon_club_walk</sprite>
+    <sprite>sprites\spr_weapon_knife</sprite>
+    <sprite>sprites\spr_weapon_knife_dash</sprite>
+    <sprite>sprites\spr_weapon_knife_heavy</sprite>
+    <sprite>sprites\spr_weapon_knife_idle</sprite>
     <sprite>sprites\spr_weapon_knife_light</sprite>
+    <sprite>sprites\spr_weapon_knife_sprint</sprite>
+    <sprite>sprites\spr_weapon_knife_walk</sprite>
+    <sprite>sprites\spr_weapon_sword</sprite>
+    <sprite>sprites\spr_weapon_sword_dash</sprite>
+    <sprite>sprites\spr_weapon_sword_heavy</sprite>
+    <sprite>sprites\spr_weapon_sword_idle</sprite>
+    <sprite>sprites\spr_weapon_sword_light</sprite>
+    <sprite>sprites\spr_weapon_sword_sprint</sprite>
+    <sprite>sprites\spr_weapon_sword_walk</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_arena</background>
