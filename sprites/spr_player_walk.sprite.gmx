@@ -2,7 +2,7 @@
 <sprite>
   <type>0</type>
   <xorig>32</xorig>
-  <yorigin>32</yorigin>
+  <yorigin>64</yorigin>
   <colkind>1</colkind>
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
@@ -205,12 +205,5 @@
     <frame index="182">images\spr_player_walk_182.png</frame>
     <frame index="183">images\spr_player_walk_183.png</frame>
     <frame index="184">images\spr_player_walk_184.png</frame>
-    <frame index="185">images\spr_player_walk_185.png</frame>
-    <frame index="186">images\spr_player_walk_186.png</frame>
-    <frame index="187">images\spr_player_walk_187.png</frame>
-    <frame index="188">images\spr_player_walk_188.png</frame>
-    <frame index="189">images\spr_player_walk_189.png</frame>
-    <frame index="190">images\spr_player_walk_190.png</frame>
-    <frame index="191">images\spr_player_walk_191.png</frame>
   </frames>
 </sprite>

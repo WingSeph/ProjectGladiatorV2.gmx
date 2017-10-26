@@ -12,6 +12,10 @@
     <sprite>sprites\spr_attack_heavy</sprite>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_awall</sprite>
+    <sprite>sprites\spr_boss_idle</sprite>
+    <sprite>sprites\spr_boss_walk</sprite>
+    <sprite>sprites\spr_player_death</sprite>
+    <sprite>sprites\spr_player_sprint</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_arena</background>
@@ -22,6 +26,13 @@
     <object>objects\obj_player</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_awall</object>
+    <object>objects\obj_boss</object>
+    <object>objects\obj_player_death</object>
+    <object>objects\obj_player_light</object>
+    <object>objects\obj_player_heavy</object>
+    <object>objects\obj_player_sprint_right</object>
+    <object>objects\parent_enemy</object>
+    <object>objects\obj_prototype_spawner</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_arena</room>
