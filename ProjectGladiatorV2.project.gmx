@@ -60,9 +60,10 @@
     <object>objects\obj_player_sprint_right</object>
     <object>objects\obj_prototype_spawner</object>
     <object>objects\obj_wall</object>
+    <object>objects\obj_weapon_idle</object>
     <object>objects\obj_weapon_knife_light</object>
     <object>objects\parent_enemy</object>
-    <object>objects\parent_weapon_player</object>
+    <object>objects\parent_player_weapon</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_arena</room>
