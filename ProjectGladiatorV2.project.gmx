@@ -64,6 +64,7 @@
     <object>objects\obj_weapon_knife_light</object>
     <object>objects\parent_enemy</object>
     <object>objects\parent_player_weapon</object>
+    <object>objects\obj_arena</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_arena</room>
