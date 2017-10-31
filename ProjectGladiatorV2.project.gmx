@@ -44,6 +44,7 @@
     <sprite>sprites\spr_weapon_sword_light</sprite>
     <sprite>sprites\spr_weapon_sword_sprint</sprite>
     <sprite>sprites\spr_weapon_sword_walk</sprite>
+    <sprite>sprites\spr_enemy_scarecrow</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_arena</background>
@@ -60,16 +61,17 @@
     <object>objects\obj_player_sprint_right</object>
     <object>objects\obj_prototype_spawner</object>
     <object>objects\obj_wall</object>
-    <object>objects\obj_weapon_knife</object>
+    <object>objects\obj_weapon_knife_ground</object>
     <object>objects\obj_weapon_knife_light</object>
     <object>objects\parent_enemy</object>
     <object>objects\parent_player_weapon</object>
     <object>objects\obj_arena</object>
+    <object>objects\obj_enemy_scarecrow</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_train</room>
     <room>rooms\rm_arena</room>
     <room>rooms\rm_test</room>
-    <room>rooms\rm_train</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
