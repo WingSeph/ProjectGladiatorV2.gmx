@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_weapon_knife_idle</sprite>
+            <sprite>spr_weapon_knife</sprite>
           </argument>
           <argument>
             <kind>0</kind>
