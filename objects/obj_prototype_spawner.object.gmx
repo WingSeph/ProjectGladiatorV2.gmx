@@ -41,7 +41,6 @@
     <event eventtype="9" enumb="49">
       <action>
         <libid>1</libid>
-<<<<<<< HEAD
         <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
@@ -65,24 +64,6 @@
           <argument>
             <kind>0</kind>
             <string>0</string>
-=======
-        <id>603</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>mp_grid_add_instances(grid, instance_create(x, y, obj_boss), 1); //Boss gets spawned by instance_create
-</string>
->>>>>>> ed44eb571baa138faee199840d4deea8169d7b76
           </argument>
         </arguments>
       </action>
