@@ -6,8 +6,8 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_attack_heavy</sprite>
-    <sprite>sprites\spr_attack_light</sprite>
+    <sprite>sprites\spr_player_attack_heavy</sprite>
+    <sprite>sprites\spr_player_attack_light</sprite>
     <sprite>sprites\spr_awall</sprite>
     <sprite>sprites\spr_boss_idle</sprite>
     <sprite>sprites\spr_boss_walk</sprite>
@@ -44,7 +44,8 @@
     <sprite>sprites\spr_weapon_sword_light</sprite>
     <sprite>sprites\spr_weapon_sword_sprint</sprite>
     <sprite>sprites\spr_weapon_sword_walk</sprite>
-    <sprite>sprites\spr_enemy_scarecrow</sprite>
+    <sprite>sprites\spr_enemy_scarecrow_idle</sprite>
+    <sprite>sprites\spr_enemy_scarecrow_hit</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_arena</background>
@@ -60,16 +61,16 @@
     <object>objects\obj_ground_club</object>
     <object>objects\obj_ground_knife</object>
     <object>objects\obj_ground_sword</object>
-    <object>objects\obj_player</object>
+    <object>objects\obj_PLAYER</object>
     <object>objects\obj_player_death</object>
     <object>objects\obj_player_heavy</object>
     <object>objects\obj_player_light</object>
     <object>objects\obj_player_sprint_right</object>
     <object>objects\obj_prototype_spawner</object>
     <object>objects\obj_wall</object>
-    <object>objects\obj_weapon_knife_light</object>
     <object>objects\parent_enemy</object>
-    <object>objects\parent_player_weapon</object>
+    <object>objects\obj_weapon_attack_light</object>
+    <object>objects\obj_weapon</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_train</room>

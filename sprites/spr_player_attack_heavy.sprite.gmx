@@ -20,7 +20,7 @@
   <width>64</width>
   <height>64</height>
   <frames>
-    <frame index="0">images\spr_attack_heavy_0.png</frame>
-    <frame index="1">images\spr_attack_heavy_1.png</frame>
+    <frame index="0">images\spr_player_attack_heavy_0.png</frame>
+    <frame index="1">images\spr_player_attack_heavy_1.png</frame>
   </frames>
 </sprite>

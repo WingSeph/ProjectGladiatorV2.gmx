@@ -8,7 +8,7 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
-    <event eventtype="4" ename="parent_player_weapon">
+    <event eventtype="4" ename="obj_weapon">
       <action>
         <libid>1</libid>
         <id>721</id>

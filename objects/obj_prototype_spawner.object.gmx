@@ -55,7 +55,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_player</object>
+            <object>obj_PLAYER</object>
           </argument>
           <argument>
             <kind>0</kind>
