@@ -16,6 +16,7 @@
     <sprite>sprites\spr_player_sprint</sprite>
     <sprite>sprites\spr_player_walk</sprite>
     <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\spr_door</sprite>
     <sprite>sprites\spr_weapon_axe</sprite>
     <sprite>sprites\spr_weapon_axe_dash</sprite>
     <sprite>sprites\spr_weapon_axe_heavy</sprite>
@@ -70,10 +71,11 @@
     <object>objects\obj_weapon_knife_light</object>
     <object>objects\parent_enemy</object>
     <object>objects\parent_player_weapon</object>
+    <object>objects\obj_door</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_arena</room>
     <room>rooms\rm_train</room>
+    <room>rooms\rm_arena</room>
     <room>rooms\rm_test</room>
   </rooms>
   <help>
