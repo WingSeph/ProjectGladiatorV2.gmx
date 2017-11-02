@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\snd_hit1</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_player_attack_heavy</sprite>
     <sprite>sprites\spr_player_attack_light</sprite>
@@ -69,7 +71,10 @@
     <object>objects\obj_prototype_spawner</object>
     <object>objects\obj_wall</object>
     <object>objects\parent_enemy</object>
-    <object>objects\obj_weapon_attack_light</object>
+    <object>objects\obj_weapon_attack_knife_light</object>
+    <object>objects\obj_weapon_attack_sword_light</object>
+    <object>objects\obj_weapon_attack_club_light</object>
+    <object>objects\obj_weapon_attack_axe_light</object>
     <object>objects\obj_weapon</object>
   </objects>
   <rooms name="rooms">
